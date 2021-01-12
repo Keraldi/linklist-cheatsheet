@@ -6,3 +6,4 @@ A (mostly) random collection of links I've found useful (and remembed to put the
 
 ## RPMBUILD
 - Quick, concise reference: https://www.thegeekstuff.com/2015/02/rpm-build-package-example/
+- Redhat ref: https://developers.redhat.com/blog/2019/03/18/rpm-packaging-guide-creating-rpm/
